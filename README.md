@@ -17,9 +17,8 @@
 > 
 > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
-<a href="https://github.com/LoveGlaze/images">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LoveGlaze&show_icons=true" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=LoveGlaze&show_icons=true&theme=radical)
+
 
 
 
